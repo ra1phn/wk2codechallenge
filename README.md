@@ -94,6 +94,8 @@ You can customize the following parts of the app:
 
 ## Author
 This project was created as part of a code challenge to practice array iteration, DOM manipulation, and event handling.
+It was created by Ralph Njuguna. 
+You can contact me at njugunaralph4@gmail.com for any comments or complaints.
 
 ---
 
